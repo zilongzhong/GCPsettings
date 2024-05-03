@@ -56,5 +56,6 @@ Host GCP-test
 
 ## References
 
-How to set ssh for GCP: [https://www.youtube.com/watch?v=elXJCyBSHUk)
-VS Code Installation: [https://code.visualstudio.com/docs/setup/linux)
+1. [How to set ssh for GCP](https://www.youtube.com/watch?v=elXJCyBSHUk)
+
+2. [VS Code Installation](https://code.visualstudio.com/docs/setup/linux)
