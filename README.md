@@ -12,9 +12,9 @@ This guide provides instructions on how to set up a virtual machine (VM) with GP
 Please run the following command on your local PC, and replace 'gcp-test' with your SSH key name:
 
 ```bash
-ssh-keygen -t rsa -b 2048 -f ~/.ssh/gcp-test-120 -C my-username
+ssh-keygen -t rsa -b 2048 -f ~/.ssh/gcp-test -C my-username
 ```
-Then, you should have a private key ~/.ssh/gcp-test-120, and a public ~/.ssh/gcp-test-120.pub
+Then, you should have a private key ~/.ssh/gcp-test, and a public ~/.ssh/gcp-test.pub
 
 ## Step 2: Greate a VM instance on GCP 
 
