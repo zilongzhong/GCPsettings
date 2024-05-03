@@ -12,8 +12,9 @@ This guide provides instructions on how to set up a virtual machine (VM) with GP
 In the following command, please replace 'gcp-lesson-120' with your ssh key name:  
 
 ```bash
-ssh-keygen -t rsa -b 2048 -f ~/.ssh/gcp-lesson-120 -C my-username
+ssh-keygen -t rsa -b 2048 -f ~/.ssh/gcp-test-120 -C my-username
 ```
+Then, you should have a private key ~/.ssh/gcp-test-120, and a public ~/.ssh/gcp-test-120.pub
 
 ## Step 2: Greate a VM instance on GCP 
 
