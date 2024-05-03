@@ -18,10 +18,10 @@ Then, you should have a private key ~/.ssh/gcp-test-120, and a public ~/.ssh/gcp
 
 ## Step 2: Greate a VM instance on GCP 
 
-When creating a VM on GCP, use the 'Security' section to add your public SSH key, which you can use to access the VM from your local PC. Then, you can access the GCP VM through the command as follows from your local machine. Please replace `name@XXX.XXX.XX.XXX` to your GCP account and the IP of the VM:
+When creating a VM on GCP, use the 'Security' section to add your public SSH key, which you can use to access the VM from your local PC. Then, you can access the GCP VM through the command as follows from your local machine. Please replace `GCPname@XXX.XXX.XX.XXX` to your GCP account and the IP of the VM:
 
 ```bash
-ssh -i ~/.ssh/gcp-test-120 name@XXX.XXX.XX.XXX
+ssh -i ~/.ssh/gcp-test-120 GCPname@XXX.XXX.XX.XXX
 ```
 
 ## Step 3: Greate Cloud Storage Buckets
@@ -38,3 +38,11 @@ ssh -i ~/.ssh/gcp-test-120 name@XXX.XXX.XX.XXX
 
 ## Step 6: Set remote VS Code
 
+Set the config file in the .ssh path accordingly. Specifically, make sure to update GCPname, XXX.XXX.XX.XXX, and /path/to/your/public/key.pub properly:
+
+```bash
+Host GCP-test
+  HostName XXX.XXX.XX.XXX
+  User GCPname
+  IdentityFile /path/to/your/public/key.pub
+```
