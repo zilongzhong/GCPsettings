@@ -36,19 +36,19 @@ Then, create a Cloud Storage Bucket named 'gcp_bucket01' as below, which you can
 </div>
 
 
-## Step 4: Mount Cloud Storage Buckets on GCP VM 
+<!-- ## Step 4: Mount Cloud Storage Buckets on GCP VM -->
 
 
 
-## Step 5: Install miniconda on GCP VM and transfer zipped Environment Package
+## Step 4: Install miniconda on GCP VM and transfer zipped Environment Package
 
 
 
-## Step 6: Set remote Jupyter Lab
+## Step 5: Set remote Jupyter Lab
 
 
 
-## Step 7: Set remote VS Code
+## Step 6: Set remote VS Code
 
 After installing VS Code on your local PC, set the config file in the .ssh path accordingly. Specifically, make sure to update GCPname, XXX.XXX.XX.XXX, and /path/to/your/public/key.pub properly:
 
