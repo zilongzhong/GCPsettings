@@ -18,7 +18,7 @@ Then, you should have a private key ~/.ssh/gcp-test-120, and a public ~/.ssh/gcp
 
 ## Step 2: Greate a VM instance on GCP 
 
-<img src="gcp_vm.png" width="200"/>
+<img src="gcp_vm.png" height="400"/>
 
 When creating a VM on GCP, use the 'Security' section to add your public SSH key as shown in the above figure, which you can use to access the VM from your local PC. Then, you can access the GCP VM through the command as follows from your local machine. Please replace `GCPname@XXX.XXX.XX.XXX` to your GCP account and the IP of the VM:
 
