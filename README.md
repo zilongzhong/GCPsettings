@@ -30,10 +30,10 @@ ssh -i ~/.ssh/gcp-test-120 GCPname@XXX.XXX.XX.XXX
 
 ## Step 3: Greate Cloud Storage Bucket
 
+Then, create a Cloud Storage Bucket named 'gcp_bucket01' as below, which you can replace with another name.
 <div style="text-align:center;">
   <img src="gcp_bucket.png" height="300"/>
 </div>
-Then, create a Cloud Storage Bucket named 'gcp_bucket', which you can replace with another name.
 
 ## Step 4: Mount Cloud Storage Buckets on GCP VM
 
