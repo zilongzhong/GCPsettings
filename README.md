@@ -39,10 +39,9 @@ Then, create a Cloud Storage Bucket named 'gcp_bucket01' as below, which you can
 <!-- ## Step 4: Mount Cloud Storage Buckets on GCP VM -->
 
 
-
 ## Step 4: Install miniconda on GCP VM and transfer zipped Environment Package
 
-
+Please refere to **Reference 4**
 
 ## Step 5: Set remote Jupyter Lab
 
