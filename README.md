@@ -31,7 +31,7 @@ ssh -i ~/.ssh/gcp-test-120 GCPname@XXX.XXX.XX.XXX
 ## Step 3: Greate Cloud Storage Bucket
 
 <div style="text-align:center;">
-  <img src="gcp_bucket.png" height="600"/>
+  <img src="gcp_bucket.png" height="300"/>
 </div>
 Then, create a Cloud Storage Bucket named 'gcp_bucket', which you can replace with another name.
 
