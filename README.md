@@ -9,9 +9,9 @@ This guide provides instructions on how to set up a virtual machine (VM) with GP
 
 ## Step 1: Generate SSH key
 
-''
+```bash
 ssh-keygen -t rsa -b 2048 -f ~/.ssh/gcp-lesson-120 -C my-username
-''
+```
 
 ## Step 2: Greate a VM instance on GCP 
 
