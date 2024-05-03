@@ -23,3 +23,7 @@ When creating a VM on GCP, use the 'Security' section to add your public SSH key
 ```bash
 ssh -i ~/.ssh/gcp-test-120 name@XXX.XXX.XX.XXX
 ```
+
+## Step 3: Greate Cloud Storage Buckets
+
+
