@@ -63,6 +63,10 @@ Host GCP-test
 
 1. [How to set ssh for GCP](https://www.youtube.com/watch?v=elXJCyBSHUk)
 
-2. [Miniconda Installation](https://docs.anaconda.com/free/miniconda/index.html)
+2. [Mount a Cloud Storage bucket on GCP VM](https://cloud.google.com/storage/docs/gcsfuse-quickstart-mount-bucket)
 
-3. [VS Code Installation](https://code.visualstudio.com/docs/setup/linux)
+3. [Set Globus for Cloud Storage](https://docs.globus.org/premium-storage-connectors/v5.4/google-cloud-storage/)
+
+4. [Miniconda Installation](https://docs.anaconda.com/free/miniconda/index.html)
+
+5. [VS Code Installation](https://code.visualstudio.com/docs/setup/linux)
