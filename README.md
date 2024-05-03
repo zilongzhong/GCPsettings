@@ -46,3 +46,7 @@ Host GCP-test
   User GCPname
   IdentityFile /path/to/your/public/key.pub
 ```
+
+## References
+
+https://www.youtube.com/watch?v=elXJCyBSHUk
