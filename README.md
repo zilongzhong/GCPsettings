@@ -27,3 +27,14 @@ ssh -i ~/.ssh/gcp-test-120 name@XXX.XXX.XX.XXX
 ## Step 3: Greate Cloud Storage Buckets
 
 
+
+## Step 4: Mount Cloud Storage Buckets on GCP VM
+
+
+
+## Step 5: Set remote Jupyter Lab
+
+
+
+## Step 6: Set remote VS Code
+
