@@ -45,7 +45,7 @@ Then, create a Cloud Storage Bucket named 'gcp_bucket', which you can replace wi
 
 ## Step 6: Set remote VS Code
 
-Set the config file in the .ssh path accordingly. Specifically, make sure to update GCPname, XXX.XXX.XX.XXX, and /path/to/your/public/key.pub properly:
+After installing VS Code on your local PC, set the config file in the .ssh path accordingly. Specifically, make sure to update GCPname, XXX.XXX.XX.XXX, and /path/to/your/public/key.pub properly:
 
 ```bash
 Host GCP-test
@@ -56,4 +56,5 @@ Host GCP-test
 
 ## References
 
-https://www.youtube.com/watch?v=elXJCyBSHUk
+How to set ssh for GCP: [https://www.youtube.com/watch?v=elXJCyBSHUk)
+VS Code Installation: [https://code.visualstudio.com/docs/setup/linux)
