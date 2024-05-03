@@ -9,7 +9,7 @@ This guide provides instructions on how to set up a virtual machine (VM) with GP
 
 ## Step 1: Generate SSH key
 
-In the following command, please replace 'gcp-lesson-120' with your ssh key name:  
+Please run the following command on your local PC, and replace 'gcp-test' with your SSH key name:
 
 ```bash
 ssh-keygen -t rsa -b 2048 -f ~/.ssh/gcp-test-120 -C my-username
