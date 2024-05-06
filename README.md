@@ -15,6 +15,7 @@ Please run the following command on your local PC, and replace 'gcp-test' with y
 ssh-keygen -t rsa -b 2048 -f ~/.ssh/gcp-test -C my-username
 ```
 Then, you should have a private key ~/.ssh/gcp-test, and a public ~/.ssh/gcp-test.pub
+Make sure that the ssh is added as an allowed ssh key in VM, and make sure my-username is the same as your username of GCP VM
 
 ## Step 2: Greate a VM instance on GCP 
 
