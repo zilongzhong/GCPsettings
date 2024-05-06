@@ -39,16 +39,18 @@ Then, create a Cloud Storage Bucket named 'gcp_bucket01' as below, which you can
 
 <!-- ## Step 4: Mount Cloud Storage Buckets on GCP VM -->
 
+## Step 4: Downlaod the Nvidia Driver and Install it on GCP VM
 
-## Step 4: Install miniconda on GCP VM and transfer zipped Environment Package
+[Nvidia Driver Website](https://www.nvidia.com/download/index.aspx)
+
+## Step 5: Install miniconda on GCP VM and transfer zipped Environment Package
 
 Please refere to **Reference 4**
 
-## Step 5: Set remote Jupyter Lab
+## Step 6: Set remote Jupyter Lab
 
 
-
-## Step 6: Set remote VS Code
+## Step 7: Set remote VS Code
 
 After installing VS Code on your local PC, set the config file in the .ssh path accordingly. Specifically, make sure to update GCPname, XXX.XXX.XX.XXX, and /path/to/your/public/key.pub properly:
 
