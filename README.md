@@ -43,12 +43,17 @@ Then, create a Cloud Storage Bucket named 'gcp_bucket01' as below, which you can
 
 [Nvidia Driver Website](https://www.nvidia.com/download/index.aspx)
 
+
 ## Step 5: Install miniconda on GCP VM and transfer zipped Environment Package
 
-Please refere to **Reference 4**
+Please refere to [Miniconda Installation](https://docs.anaconda.com/free/miniconda/index.html)
+
+The zipped Conda Environment can be downloaded from [DoogleDrive](https://drive.google.com/file/d/1FjM1vYWYD46ucTaniQ4vEoOIWSOH2ZUE/view?usp=drive_link)
+
 
 ## Step 6: Set remote Jupyter Lab
 
+[Remote Jupyter Lab Setting](https://www.geeksforgeeks.org/how-to-connect-a-local-jupyterlab-to-a-remote-kernel/)
 
 ## Step 7: Set remote VS Code
 
@@ -72,3 +77,5 @@ Host GCP-test
 4. [Miniconda Installation](https://docs.anaconda.com/free/miniconda/index.html)
 
 5. [VS Code Installation](https://code.visualstudio.com/docs/setup/linux)
+
+6. [Remote Jupyter Lab Setting](https://www.geeksforgeeks.org/how-to-connect-a-local-jupyterlab-to-a-remote-kernel/)
