@@ -53,7 +53,7 @@ The zipped Conda Environment can be downloaded from [DoogleDrive](https://drive.
 
 ## Step 6: Set remote Jupyter Lab
 
-[Remote Jupyter Lab Setting](https://www.geeksforgeeks.org/how-to-connect-a-local-jupyterlab-to-a-remote-kernel/)
+[Remote Jupyter Lab Setting](https://medium.com/analytics-vidhya/setting-up-jupyter-lab-instance-on-google-cloud-platform-3a7acaa732b7)
 
 ## Step 7: Set remote VS Code
 
@@ -78,4 +78,4 @@ Host GCP-test
 
 5. [VS Code Installation](https://code.visualstudio.com/docs/setup/linux)
 
-6. [Remote Jupyter Lab Setting](https://www.geeksforgeeks.org/how-to-connect-a-local-jupyterlab-to-a-remote-kernel/)
+6. [Remote Jupyter Lab Setting](https://medium.com/analytics-vidhya/setting-up-jupyter-lab-instance-on-google-cloud-platform-3a7acaa732b7)
